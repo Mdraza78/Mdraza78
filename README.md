@@ -49,8 +49,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ejs.svg" alt="ejs" width="40" height="40"/> 
+  <a href="https://pugjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
   </a> 
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40"/> 
