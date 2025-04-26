@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraza78&label=Profile%20views&color=0e75b6&style=flat" alt="mdraza78" /> </p>
 
-- 🔭 I’m currently working on **student collaboration hub project**
+- 🔭 I’m currently working on **Reduce Recycle Reward project**
 
-- 🌱 I’m currently learning **AWS Solutions Architect Associate**
+- 🌱 I’m currently learning **Block Chain Development**
 
 - 📫 How to reach me **mdraza78601@gmail.com**
 
