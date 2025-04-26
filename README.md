@@ -56,6 +56,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Axios_logo_%282020%29.svg" alt="axios" width="40" height="40"/> 
   </a>
    <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
-    <img src="[https://iq.wiki/_next/image?url=https%3A%2F%2Fipfs.everipedia.org%2Fipfs%2FQmYYEgXv7146gL6tRt3E8wYcJZhtYJZdQZcrFhPFkZFKH1&w=3840&q=95](https://miro.medium.com/v2/resize:fit:651/1*PZv6C_X671fktg1t7CZvcg.png)" alt="axios" width="40" height="40"/> 
+    <img src="https://download.logo.wine/logo/Solidity/Solidity-Logo.wine.png" alt="axios" width="40" height="40"/> 
    </a>
 </p>
