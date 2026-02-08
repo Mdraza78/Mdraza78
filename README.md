@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Reduce Recycle Reward project**
 
-- 🌱 I’m currently learning **Block Chain Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **mdraza78601@gmail.com**
 
